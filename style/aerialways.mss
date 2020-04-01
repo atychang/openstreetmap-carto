@@ -24,7 +24,7 @@
         text-placement: line;
         text-repeat-distance: 200;
         text-margin: 18;
-        text-face-name: @book-fonts;
+        text-face-name: @bold-fonts;
         text-halo-radius: @standard-halo-radius;
         text-halo-fill: @standard-halo-fill;
       }
@@ -57,7 +57,7 @@
         text-placement: line;
         text-repeat-distance: 200;
         text-margin: 18;
-        text-face-name: @book-fonts;
+        text-face-name: @bold-fonts;
         text-halo-radius: @standard-halo-radius;
         text-halo-fill: @standard-halo-fill;
       }
@@ -96,7 +96,7 @@
         text-placement: line;
         text-repeat-distance: 200;
         text-margin: 18;
-        text-face-name: @book-fonts;
+        text-face-name: @bold-fonts;
         text-halo-radius: @standard-halo-radius;
         text-halo-fill: @standard-halo-fill;
       }
@@ -150,7 +150,7 @@
         text-placement: line;
         text-repeat-distance: 200;
         text-margin: 18;
-        text-face-name: @book-fonts;
+        text-face-name: @bold-fonts;
         text-halo-radius: @standard-halo-radius;
         text-halo-fill: @standard-halo-fill;
       }

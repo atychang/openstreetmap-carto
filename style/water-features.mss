@@ -127,7 +127,7 @@
       text-halo-fill: @standard-halo-fill;
       text-fill: #222;
       text-size: 10;
-      text-face-name: @book-fonts;
+      text-face-name: @bold-fonts;
       #text-line {
         text-placement: line;
         text-dy: 8;
@@ -150,7 +150,7 @@
       text-halo-fill: @standard-halo-fill;
       text-fill: #222;
       text-size: 10;
-      text-face-name: @book-fonts;
+      text-face-name: @bold-fonts;
       #text-line {
         text-placement: line;
         text-spacing: 400;

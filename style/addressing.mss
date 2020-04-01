@@ -25,7 +25,7 @@
         }
       }
     }
-    text-face-name: @book-fonts;
+    text-face-name: @bold-fonts;
     text-fill: @address-color;
     text-halo-radius: @standard-halo-radius;
     text-halo-fill: @standard-halo-fill;
@@ -55,7 +55,7 @@ no official postal addresses) */
   [zoom >= 14][way_pixels > 3000],
   [zoom >= 17] {
     text-name: "[name]";
-    text-face-name: @book-fonts;
+    text-face-name: @bold-fonts;
     text-fill: #444;
     text-halo-radius: @standard-halo-radius;
     text-halo-fill: @standard-halo-fill;

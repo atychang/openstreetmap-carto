@@ -925,7 +925,7 @@
     text-halo-fill: @standard-halo-fill;
     text-fill: #999;
     text-size: 10;
-    text-face-name: @book-fonts;
+    text-face-name: @bold-fonts;
     text-placement: line;
     text-dy: 8;
     text-vertical-alignment: middle;

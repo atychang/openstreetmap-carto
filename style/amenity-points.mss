@@ -38,7 +38,7 @@
 @standard-font-size: 10;
 @standard-wrap-width: 30; // 3 em
 @standard-line-spacing-size: -1.5; // -0.15 em
-@standard-font: @book-fonts;
+@standard-font: @bold-fonts;
 
 #amenity-points {
   [feature = 'tourism_alpine_hut'][zoom >= 13],
@@ -1605,7 +1605,7 @@
     text-name: "[name]";
     text-size: 10;
     text-fill: @placenames;
-    text-face-name: @book-fonts;
+    text-face-name: @bold-fonts;
     text-halo-fill: @standard-halo-fill;
     text-halo-radius: @standard-halo-radius * 1.5;
     text-wrap-width: 45; // 4.5 em
